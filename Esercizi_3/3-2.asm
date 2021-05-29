@@ -9,7 +9,6 @@
 .eqv Bn, $t2
 .eqv MIN, $t3
 .eqv CONT, $t4
-.eqv MAX, $t5
 .eqv TEMP, $t6
 
 
