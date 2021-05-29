@@ -69,3 +69,13 @@ OUTPUT: 50
 **Traccia 4**
 Dato un intero positivo a definito in memoria, stampare a video "Terzo bit 1" nel caso in cui il terzo bit del numero a sia 1 o  "Terzo bit 0" altrimenti
 
+### [Esercizi IV](https://github.com/samuel-greco/ArchitetturaDegliElaboratori/tree/main/Esercizi_4)
+
+**Traccia 1**
+Leggere 7 valori interi da input e calcolarne la media (stampandola a video).
+INPUT
+12;82;11;2345;67;123456;675
+
+OUTPUT
+18092.57142857
+NB: La media deve essere espressa con un numero reale (float). Utilizzare il coprocessore matematico. 
