@@ -79,3 +79,20 @@ INPUT
 OUTPUT
 18092.57142857
 NB: La media deve essere espressa con un numero reale (float). Utilizzare il coprocessore matematico. 
+
+**Traccia 2**
+Effettuare la sommatoria di numeri reali poistivi immessi da input. La sommatoria è calcolata quando il valore immesso dall'utente è nullo o negativo.
+
+INPUT
+3.5;7.23;5.6;9.17;-1
+
+OUTPUT
+25.5
+
+**Traccia 3**
+L'ISTAT ha rivisto le stime dell'aspettativa di vita (life expentancy, LE) della popolazione italiana in 84.8 per le donne e 80.5 per gli uomini.
+Realizzare un programma in assembly MIPS che acquisca da input un carattere F o M per discriminare il genere di un campione e un valore intero che rappresenta l'età e determinare se il campione immesso ha superato la media oppure no. Il programma termina quando l'utente inserisce il carattere X
+ESEMPIO
+F;85;M;80;M;82;F;45;X
+OUTPUT
+OLTRE LA MEDIA LE; SOTTO LA MEDIA LE; OLTRE LA MEDIA LE; SOTTO LA MEDIA LE
